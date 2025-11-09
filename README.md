@@ -1,7 +1,11 @@
 ![Fajer Ibrahim](img/github-header-banner.png)
-I'm Fajer Ibrahim ( he / him ). I'm a Full-stack Developer, Designer, and student at SMK Wikrama Bogor. I'm passionate about coding, configuration, design, and development. This GitHub account showcases my portfolio, enjoy!
 
-### Skills
+**I'm Fajer** — a Full-Stack Developer from Indonesia with a strong passion for building efficient applications, optimizing configurations, and creating intuitive designs.
+
+![Fajer Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-fufajer&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-fufajer&layout=compact&theme=gruvbox)
+
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,php,html,css,bash,react,laravel,bootstrap,tailwind,mysql,postgres,figma,git,ubuntu,arch&perline=8)](https://skillicons.dev)
 
 ## Connect with me
