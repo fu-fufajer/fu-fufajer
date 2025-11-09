@@ -13,9 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,py,php,html,css,bash,react,laravel,bootstrap,tailwind,mysql,postgres,figma,git,ubuntu,arch&perline=12)](https://skillicons.dev)
 
 ## Connect with me
-![https://github.com/fu-fufajer](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://instagram.com/fajer.ri](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/fajer-ibrahim-b94200362/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu-fufajer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fajer.ri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajer-ibrahim-b94200362/)
 
 <img src="https://raw.githubusercontent.com/fu-fufajer/fu-fufajer/output/snake.svg" alt="Snake animation" />
 
