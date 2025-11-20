@@ -1,6 +1,9 @@
-![Fajer Ibrahim](img/github-header-banner.png)
+# Hi 👋, I'm Fajer Ibrahim
+I'm a **Full-Stack Developer** from Indonesia with a strong passion for building efficient applications, optimizing configurations, and creating intuitive designs.
 
-**I'm Fajer** — a Full-Stack Developer from Indonesia with a strong passion for building efficient applications, optimizing configurations, and creating intuitive designs.
+## Currently Learning
+- **Currently studying**: Laravel, Bootstrap, Tailwind, PostgreSQL, and React
+- **Planning to learn next**: Node.js, Next.js, Express, Chakra UI, and other React UI libraries
 
 ## My Stats
 <div align="left">
@@ -10,7 +13,7 @@
 </div>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,py,php,html,css,bash,react,laravel,bootstrap,tailwind,mysql,postgres,figma,git,ubuntu,arch&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,php,html,css,bash,react,laravel,bootstrap,tailwind,mysql,postgres,figma,git,ubuntu,mint&perline=12)](https://skillicons.dev)
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu-fufajer)
