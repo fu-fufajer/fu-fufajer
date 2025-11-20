@@ -1,9 +1,13 @@
 # Hi 👋, I'm Fajer Ibrahim
 I'm a **Full-Stack Developer** from Indonesia with a strong passion for building efficient applications, optimizing configurations, and creating intuitive designs.
 
+---
+
 ## Currently Learning
 - **Currently studying**: Laravel, Bootstrap, Tailwind, PostgreSQL, and React
 - **Planning to learn next**: Node.js, Next.js, Express, Chakra UI, and other React UI libraries
+
+---
 
 ## My Stats
 <div align="left">
@@ -12,13 +16,19 @@ I'm a **Full-Stack Developer** from Indonesia with a strong passion for building
   <img src="https://nirzak-streak-stats.vercel.app/?user=fu-fufajer&theme=gruvbox&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+---
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,php,html,css,bash,react,laravel,bootstrap,tailwind,mysql,postgres,figma,git,ubuntu,mint&perline=12)](https://skillicons.dev)
+
+---
 
 ## Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fu-fufajer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fajer.ri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajer-ibrahim-b94200362/)
+
+---
 
 <img src="https://raw.githubusercontent.com/fu-fufajer/fu-fufajer/output/snake.svg" alt="Snake animation" />
 
