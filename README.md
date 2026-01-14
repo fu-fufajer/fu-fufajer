@@ -3,7 +3,7 @@ I'm a **Full-Stack Developer** from Indonesia with a strong passion for building
 
 ## Currently Learning
 - **Currently studying**: Laravel, Bootstrap, Tailwind, PostgreSQL, and React
-- **Planning to learn next**: Node.js, Next.js, Express, Chakra UI, and other React UI libraries
+- **Planning to learn next**: Node.js, Express, Chakra UI, and other React UI libraries
 
 ## My Stats
 <div align="left">
