@@ -2,8 +2,8 @@
 I'm a **Full-Stack Developer** from Indonesia with a strong passion for building efficient applications, optimizing configurations, and creating intuitive designs.
 
 ## Currently Learning
-- **Currently studying**: Laravel, Bootstrap, Tailwind, PostgreSQL, and React
-- **Planning to learn next**: Node.js, Express, Chakra UI, and other React UI libraries
+- **Currently studying**: Flutter and MongoDB
+- **Planning to learn next**: Express
 
 ## My Stats
 <div align="left">
